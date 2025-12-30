@@ -14,6 +14,9 @@ Currently focused on lightweight port scanning and basic API fuzzing.
 - `multiscan.py`
   Multithreaded TCP port scanner that checks one target for open ports using TCP connect attempts.
 
+- `pingsweep.py`
+  A simple Python script that performs a ping sweep over an IPv4 subnet and prints all reachable hosts.
+
 More tools may be added over time as the project grows.
 
 ## Requirements
